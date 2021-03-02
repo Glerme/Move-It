@@ -23,7 +23,7 @@
 
 
 <h1 align="center">
-  <img alt="Print tela inicial" title="telaInicial" src="https://github.com/Glerme/Bot_Bauru_Empregos/blob/main/Assets/printTela.png" />
+  <img alt="Print tela inicial" title="telaInicial" src="https://github.com/Glerme/Move-It/blob/main/public/telaInicial.png" />
 </h1>
 <br />
 <hr>
